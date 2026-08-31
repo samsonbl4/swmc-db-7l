@@ -4,6 +4,9 @@ Open-source enclosed slim wall-mount SFF PC case.
 
 ![Wakizashi PC Case](./photo/swmc-db-7l%20(9).jpg)
 
+> [!NOTE]
+> **Project Status:** The hardware prototype is complete and fully tested. This repository is currently being organized: final manufacturing files, 3D models, and documentation are being uploaded and formatted for public use.
+
 Designed for building either a compact gaming system or a small NAS. Due to its horizontal orientation and a flat linear component layout, heat overlap between components is minimized, preventing thermal crosstalk. Thanks to its slim profile and flush-to-wall mounting capability, the case saves massive space in your home setup, offering a near-zero footprint.
 
 ---
