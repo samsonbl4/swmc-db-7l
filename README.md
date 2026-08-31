@@ -1,6 +1,8 @@
 # Wakizashi PC Case
 
-Open-source enclosed slim wall-mount SFF PC case.
+Open-source enclosed slim wall-mount SFF PC case. 
+
+Designed for building either a compact gaming system or a small NAS. Due to its horizontal orientation and a flat linear component layout, heat overlap between components is minimized, preventing thermal crosstalk. Thanks to its slim profile and flush-to-wall mounting capability, the case saves massive space in your home setup, offering a near-zero footprint.
 
 ---
 
@@ -22,7 +24,7 @@ Open-source enclosed slim wall-mount SFF PC case.
 * **Storage:** 1 x 2.5" SSD
 
 ### 2. NAS Build
-* **Motherboard:** Mini-ITX or Micro-ATX (mATX) (up to 200×225 mm)
+* **Motherboard:** Mini-ITX or Micro-ATX (mATX)
 * **Storage:** 2 x 3.5" HDD or 4 x 2.5" SSD
 
 ---
@@ -34,6 +36,14 @@ Open-source enclosed slim wall-mount SFF PC case.
 * Easily removable feet for surface placement
 * Side-mounted USB-C port
 * Three interchangeable cover designs (Standard, Wood Slat, Wakizashi)
+
+---
+
+## Use Cases
+
+* **Wall-mounted above a desk:** Mount the case on the wall directly above your monitor to completely free up desk space in your home setup.
+* **DIY Steam Machine:** Place the case on top of a TV stand in the living room as a high-performance console-sized PC for big-screen gaming.
+* **Zero-footprint workstation:** Combine the wall-mounted case with a wall-mounted monitor, soundbar, and a folding wall desk to create a workstation that folds completely flat against the wall when not in use.
 
 ---
 
@@ -59,4 +69,3 @@ To fabricate the case, provide the PDF drawings and DXF files to a metal shop ca
 * [dxf_alternative/](./dxf_alternative/) — Alternative DXF files (use if the main files cannot be read or imported with errors by the fabricator)
 * [flat_patterns_step/](./flat_patterns_step/) — Unfolded flat patterns in STEP format (backup option if both DXF formats fail)
 * [model_step/](./model_step/) — Complete 3D model of the case in STEP format
-
