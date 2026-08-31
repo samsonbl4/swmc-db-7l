@@ -22,7 +22,7 @@ Open-source enclosed slim wall-mount SFF PC case.
 * **Storage:** 1 x 2.5" SSD
 
 ### 2. NAS Build
-* **Motherboard:** Mini-ITX or Micro-ATX (mATX)
+* **Motherboard:** Mini-ITX or Micro-ATX (mATX) (up to 200×225 mm)
 * **Storage:** 2 x 3.5" HDD or 4 x 2.5" SSD
 
 ---
