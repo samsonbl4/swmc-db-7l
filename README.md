@@ -39,7 +39,7 @@ Designed for building either a compact gaming system or a small NAS. Due to its 
 * Easily removable feet for surface placement
 * Side-mounted USB-C port
 * Additional reversible 3.5" HDD mounting holes for easier cable routing
-* Three interchangeable cover designs (Standard, Wood Slat, Wakizashi)
+* Three optional cover designs (Standard, Wood Slat, Wakizashi)
 
 ---
 
