@@ -15,6 +15,7 @@ Designed for building either a compact gaming system or a small NAS. Due to its 
 
 * **Dimensions:** 220 x 440 x 73 mm
 * **Volume:** 7L
+* **Weight (without feet):** 2.0 kg
 * **Material:** 1.0 mm steel
 * **PSU Support:** TFX or Flex ATX (if Flex ATX is used, 1 x 2.5" SSD can be installed under it)
 * **Cooling:** Up to 50 mm CPU cooler height, 3 x 60x15 mm case fans
