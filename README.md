@@ -51,7 +51,7 @@ Designed for building either a compact gaming system or a small NAS. Due to its 
 * **Wall-mounted above a desk:** Mount the case on the wall directly above your monitor to completely free up desk space in your home setup.
 * **DIY Steam Machine:** Place the case on top of a TV stand in the living room as a high-performance console-sized PC for big-screen gaming.
 * **Zero-footprint workstation:** Combine the wall-mounted case with a wall-mounted monitor, soundbar, and a folding wall desk to create a workstation that folds completely flat against the wall when not in use.
-
+* **NAS / Stealth Home Server:** Mount the case on a hallway wall to create a headless server that stays completely out of the way, occupying zero floor or shelf space while looking like a piece of interior decor.
 ---
 
 ## Dust Filter
