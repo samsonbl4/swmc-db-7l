@@ -71,7 +71,7 @@ To fabricate the case, provide the PDF drawings and DXF files to a metal shop ca
 * [BOM.txt](./BOM.txt) — Fasteners, hardware, and components list
 * [Assembly_guide.pdf](./Assembly_guide.pdf) — Assembly instructions
 * [photo/](./photo/) — Prototype photos and renders
-* [drawings_pdf/](./drawings_pdf/) — Engineering drawings in PDF format
+* [drawings_pdf/](./drawings_pdf/) — Manufacturing drawings in PDF format
 * [dxf_main/](./dxf_main/) — Main DXF files for laser cutting
 * [dxf_alternative/](./dxf_alternative/) — Alternative DXF files (use if the main files cannot be read or imported with errors by the fabricator)
 * [flat_patterns_step/](./flat_patterns_step/) — Unfolded flat patterns in STEP format (backup option if both DXF formats fail)
