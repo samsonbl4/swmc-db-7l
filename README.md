@@ -73,6 +73,47 @@ You can also order custom fabrication of this case on AliExpress:
 
 ---
 
+## Thermal Testing
+
+### Gaming Setup
+
+For these tests, I used older hardware with a thermal output comparable to modern components.
+
+**Test Bench:**
+* **CPU:** Intel Core i5-3330S (65W TDP)
+* **GPU:** ASUS GeForce GTX 760 DirectCU Mini (170W TDP)
+* **CPU Cooler:** ID-Cooling DK-01S
+* **PSU:** T.F.SKYWINDINTL Flex ATX 600W
+
+**Temperatures in an open-air setup (classic layout):**
+* **CPU:** 77°C
+* **GPU:** 80°C
+
+**Temperatures inside the case (with 2 out of 3 possible exhaust fans installed):**
+* **CPU:** 80°C
+* **GPU:** 84°C
+
+**Test Duration (AIDA64 + FurMark):** ~25 minutes
+
+**Temperature delta (open-air vs. inside the case):** +3°C for the CPU, +4°C for the GPU.
+
+---
+
+### NAS Setup
+
+For the NAS build, thermal testing was conducted during extended workloads inside the assembled case.
+
+**Test Bench:**
+* **CPU:** AMD Ryzen 3 2200GE (35W TDP)
+* **CPU Cooler:** AMD Wraith Stealth
+* **Cooling:** Case fan mounted directly above the drive cage
+
+**Temperatures inside the case:**
+* **CPU (under AIDA64 stress test):** up to 63°C
+* **HDDs (under prolonged workload):** 38–41°C
+
+---
+
 ## Files & Documentation
 
 * [BOM.txt](./BOM.txt) — Fasteners, hardware, and components list
