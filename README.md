@@ -63,6 +63,14 @@ To install a dust filter, a standard 100x30 cm mesh sheet can be purchased, cut 
 
 To fabricate the case, provide the PDF drawings and DXF files to a metal shop capable of laser cutting, bending, welding, and painting. Agree on the paint color in advance.
 
+### Ordering the Case on AliExpress
+
+You can also order custom fabrication of this case on AliExpress:
+
+* [AliExpress Store](https://www.aliexpress.com/store/1102204216) — The shop where I ordered my prototype
+* [manufacturing_pack_aliexpress.zip](./manufacturing_pack_aliexpress.zip) — Ready-to-send package for the AliExpress seller (includes a text file with all necessary information for the manager, DXF files, STEP flat patterns, PDF drawings, and a 3D STEP assembly; note that this package includes the Standard cover design)
+* [SmallFormFactor.net Build Log](https://smallformfactor.net/forum/threads/slim-wall-mount-7l-pc-case-project.20416/post-296806) — Detailed post describing my ordering process and experience with the seller
+
 ---
 
 ## Files & Documentation
