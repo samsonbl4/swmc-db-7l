@@ -83,7 +83,7 @@ For these tests, I used older hardware with a thermal output comparable to moder
 * **CPU:** Intel Core i5-3330S (65W TDP)
 * **GPU:** ASUS GeForce GTX 760 DirectCU Mini (170W TDP)
 * **CPU Cooler:** ID-Cooling DK-01S
-* **PSU:** T.F.SKYWINDINTL Flex ATX 600W
+* **PSU:** T.F.SKYWINDINTL Flex ATX 600W  (fan flipped to intake)
 
 **Temperatures in an open-air setup (classic layout):**
 * **CPU:** 77°C
