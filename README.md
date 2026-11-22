@@ -124,3 +124,7 @@ For the NAS build, thermal testing was conducted during extended workloads insid
 * [dxf_alternative/](./dxf_alternative/) — Alternative DXF files (use if the main files cannot be read or imported with errors by the fabricator)
 * [flat_patterns_step/](./flat_patterns_step/) — Unfolded flat patterns in STEP format (backup option if both DXF formats fail)
 * [model_step/](./model_step/) — Complete 3D model of the case in STEP format
+
+![Wakizashi PC Case](./photo/swmc-db-7l%20(25).jpg)
+
+![Wakizashi PC Case](./photo/swmc-db-7l%20(28).jpg)
