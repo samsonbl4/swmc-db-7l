@@ -75,7 +75,7 @@ You can also order custom fabrication of this case on AliExpress:
 
 ## Thermal Testing
 
-### Gaming Setup
+### Gaming Build
 
 For these tests, I used older hardware with a thermal output comparable to modern components.
 
@@ -99,7 +99,7 @@ For these tests, I used older hardware with a thermal output comparable to moder
 
 ---
 
-### NAS Setup
+### NAS Build
 
 For the NAS build, thermal testing was conducted during extended workloads inside the assembled case.
 
