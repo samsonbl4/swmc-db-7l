@@ -2,7 +2,7 @@
 
 Open-source enclosed slim wall-mount SFF PC case. 
 
-![Wakizashi PC Case](./photo/swmc-db-7l%20(9).jpg)
+![Wakizashi PC Case](./photo/swmc-db-7l%20(18).jpg)
 
 ![Wakizashi PC Case](./photo/swmc-db-7l%20(30).jpg)
 
